@@ -1,2 +1,2 @@
-backbone-on-rails
-=================
+# Backbone on Rails
+Simple Backbone on Rails App
